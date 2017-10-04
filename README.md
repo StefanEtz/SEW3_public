@@ -2,9 +2,9 @@
 
 ## 0. Wichtige Links
 * Sollten Fehler im bereitgestellten Material auftreten, bitte bei meinen ["GitHub Issues"](https://github.com/Javaw0cky/SEW3/issues) eintragen
-* SEW-Repository: [3HIT Classroom](https://classroom.github.com/a/VXs83hc7)
+* SEW-Repository: [3AHIT Classroom](https://classroom.github.com/a/VXs83hc7), [3BHIT Classroom](https://classroom.github.com/a/U7DfaBdE)
 * Hilfe bekommst du hier:
-	+ "Diskussionsforum zum Unterricht:" [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/SEW3/3AHIT?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+	+ "Diskussionsforum zum Unterricht:" [![Gitter 3AHIT](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/SEW3/3AHIT?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge), [![Gitter 3BHIT](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/SEW3/3BHIT?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 	+ [Stack Overflow](http://stackoverflow.com)
 
 ## 1. Source Code Verwaltung mit git
@@ -27,7 +27,8 @@ Bei korrekter Konfiguration erkennt auch IntelliJ in den Unterprojekten, dass es
 
 ### 1.2 Erstelle deine Repository
 Deine persönliche Repository für dieses Schuljahr findest du hier: 
-* [3HIT Classroom SEW](https://classroom.github.com/a/VXs83hc7)
+* [3AHIT Classroom SEW](https://classroom.github.com/a/VXs83hc7)
+* [3BHIT Classroom](https://classroom.github.com/a/U7DfaBdE)
 
 
 ### 1.3 ".gitignore"
