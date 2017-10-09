@@ -4,7 +4,7 @@
 * Sollten Fehler im bereitgestellten Material auftreten, bitte bei meinen ["GitHub Issues"](https://github.com/Javaw0cky/SEW3/issues) eintragen
 * SEW-Repository: [3AHIT Classroom](https://classroom.github.com/a/VXs83hc7), [3BHIT Classroom](https://classroom.github.com/a/U7DfaBdE)
 * Hilfe bekommst du hier:
-	+ "Diskussionsforum zum Unterricht:" [![Gitter 3AHIT](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/SEW3/3AHIT?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge), [![Gitter 3BHIT](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/SEW3/3BHIT?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+	+ "Diskussionsforum zum Unterricht:" 3AHIT: [![Gitter 3AHIT](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/SEW3/3AHIT?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge), 3BHIT: [![Gitter 3BHIT](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/SEW3/3BHIT?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 	+ [Stack Overflow](http://stackoverflow.com)
 
 ## 1. Source Code Verwaltung mit git
